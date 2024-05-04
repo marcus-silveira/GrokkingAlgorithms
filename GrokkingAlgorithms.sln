@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SelectionSort", "02.Sele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Recursion", "03.Recursion\03.Recursion.csproj", "{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{F99C6106-32EF-48D5-8FF4-4DA92C27E2B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99C6106-32EF-48D5-8FF4-4DA92C27E2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99C6106-32EF-48D5-8FF4-4DA92C27E2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99C6106-32EF-48D5-8FF4-4DA92C27E2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99C6106-32EF-48D5-8FF4-4DA92C27E2B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

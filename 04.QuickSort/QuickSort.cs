@@ -8,7 +8,6 @@ public class QuickSort
         var pivot = list.First();
         var less = list.Skip(1).Where(x => x <= pivot);
         var greater = list.Skip(1).Where(i => i > pivot);
-        //greater.ToList().
         return QuickSortMethod(less).Union(new List<int> { pivot }).Union(QuickSortMethod(greater));
 
     }
