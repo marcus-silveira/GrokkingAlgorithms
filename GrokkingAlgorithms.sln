@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.IntroductionToAlgorithms", "01.IntroductionToAlgorithms\01.IntroductionToAlgorithms.csproj", "{9CF3E0FA-5C51-4958-A578-FF8B128D49A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.IntroductionToAlgorithms", "01.IntroductionToAlgorithms\01.IntroductionToAlgorithms.csproj", "{9CF3E0FA-5C51-4958-A578-FF8B128D49A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.QuickSort", "04.QuickSort\04.QuickSort.csproj", "{928AE5EC-59FF-45EB-B351-7CCD0C930154}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SelectionSort", "02.SelectionSort\02.SelectionSort.csproj", "{AA621C1C-E703-4035-892A-3DDAC5F75363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Recursion", "03.Recursion\03.Recursion.csproj", "{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9CF3E0FA-5C51-4958-A578-FF8B128D49A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF3E0FA-5C51-4958-A578-FF8B128D49A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF3E0FA-5C51-4958-A578-FF8B128D49A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928AE5EC-59FF-45EB-B351-7CCD0C930154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928AE5EC-59FF-45EB-B351-7CCD0C930154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928AE5EC-59FF-45EB-B351-7CCD0C930154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928AE5EC-59FF-45EB-B351-7CCD0C930154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA621C1C-E703-4035-892A-3DDAC5F75363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA621C1C-E703-4035-892A-3DDAC5F75363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA621C1C-E703-4035-892A-3DDAC5F75363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA621C1C-E703-4035-892A-3DDAC5F75363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC6CCC6-CDB3-41C8-AEBA-59CE08D1B650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
